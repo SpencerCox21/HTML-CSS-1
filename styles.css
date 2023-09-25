@@ -1,0 +1,57 @@
+* {
+    font-family: 'Croissant One', cursive;
+
+
+    
+}
+
+h1{
+    font-size: 100px;
+    text-shadow: -4px 4px goldenrod;
+}
+
+
+h2 {
+    font-size: 50px;
+    padding-bottom: 200px;
+    padding-top: 300px;
+    text-shadow: -3px 3px goldenrod;
+}
+
+
+body {
+
+    color: white;
+
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f0b00ef1-5fbe-4edf-8c42-c227d7ee47be/ddroo5d-998b79bb-77e1-430f-b54b-98d88ae02741.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YwYjAwZWYxLTVmYmUtNGVkZi04YzQyLWMyMjdkN2VlNDdiZVwvZGRyb281ZC05OThiNzliYi03N2UxLTQzMGYtYjU0Yi05OGQ4OGFlMDI3NDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ug0SQOpiJ45sZIHyG-FrJwgiT_HnlxK0joTnZvxhs30);
+    
+    background-repeat: repeat;
+    background-position: center;
+
+    
+}
+
+
+img {
+    height: 350px;
+    padding-top: 100px;
+
+}
+
+p {
+    font-size: 30px;
+    text-shadow: -2px 2px darkgoldenrod;
+}
+
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+div{
+    border: 40px;
+}
